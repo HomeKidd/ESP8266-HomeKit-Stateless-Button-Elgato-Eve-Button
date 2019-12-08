@@ -30,7 +30,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
  
 <br/>
 <br/>
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Motion-Sensor-Elgato-Eve/raw/master/images/homekid_motion.jpg" class="center" width="450"/>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Stateless-Button-Elgato-Eve-Button/raw/master/images/P1010698_2.jpg" class="center" width="700"/>
 
 <br/>
 
