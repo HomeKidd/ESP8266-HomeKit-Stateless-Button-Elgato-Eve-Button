@@ -21,7 +21,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 
 
 **Features:**
-* Programmable Switch _(via a simple [Button shield](http://s.click.aliexpress.com/e/CtE47VyU))_
+* Programmable Switch _(via a simple [Button shield](http://s.click.aliexpress.com/e/CJVWz132))_
 * Single press, Double press and Triple press _(Triple Press is equal to Long Pressing)_
 * Reset function
 * Over-the-Air firmware update _(still beta)_
