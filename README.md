@@ -26,7 +26,8 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Reset function
 * Over-the-Air firmware update _(still beta)_
 
-**GPIO0 used for the Button**
+# Important!!! 
+**Single, Double press works, but Long press (fo 10 sec) is reserved for RESET! Triple pressing will perform "Long Press" within Home App!**
  
 <br/>
 <br/>
