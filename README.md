@@ -24,6 +24,8 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Programmable Switch _(via a simple [Button shield](http://s.click.aliexpress.com/e/CJVWz132))_
 * Single press, Double press and **Triple press** _(Triple Press is equal to Long Pressing)_
 * Reset function _(Long pressing the button for 10 sec)_
+* Recognised as real Eve Button by the Eve app _(when adding it via Eve app)_
+* Downloadable User Manual _(via Eve app)_
 * Over-the-Air firmware update _(still beta)_
 
 # Important!!! 
